@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifecycleAware</string>
+
+    <string name="status_network_connect">Online</string>
+    <string name="status_network_disconnect">Offline</string>
+    <string name="network_connect">Network connected</string>
+    <string name="network_disconnect">Network disconnected</string>
+
+</resources>
